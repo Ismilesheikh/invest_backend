@@ -1,6 +1,7 @@
 from flask import Flask, jsonify
 from nsepython import nse_eq
 from flask_cors import CORS
+import os  # ✅ this should be at the top
 
 app = Flask(__name__)
 CORS(app)  # allows Flutter (different origin) to call this API
@@ -14,7 +15,6 @@ def get_price(symbol):
     except Exception as e:
         return jsonify({"error": str(e)}), 500
 
-# Example: /prices?symbols=TCS,INFY,RELIANCE
 @app.route("/prices")
 def get_prices():
     symbols = ["TCS", "INFY", "RELIANCE"]
@@ -27,6 +27,7 @@ def get_prices():
             prices[sym] = None
     return jsonify(prices)
 
+# ✅ Only one main block, correctly indented
 if __name__ == "__main__":
-    app.run(debug=True)
-
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host="0.0.0.0", port=port, debug=True)
