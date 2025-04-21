@@ -9,7 +9,7 @@ CORS(app)
 # Root route (optional)
 @app.route("/")
 def index():
-    return jsonify({"message": "Welcome to the Stock Price API!"})
+    return jsonify({"message": "Welcome to Stock Price API!"})
 
 @app.route("/price/<symbol>")
 def get_price(symbol):
