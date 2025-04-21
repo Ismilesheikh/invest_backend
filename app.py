@@ -1,18 +1,22 @@
 from flask import Flask, jsonify
 import yfinance as yf
 from flask_cors import CORS
-import os  # ✅ this should be at the top
+import os
 
 app = Flask(__name__)
-CORS(app)  # allows Flutter (different origin) to call this API
+CORS(app)
+
+# Root route (optional)
+@app.route("/")
+def index():
+    return jsonify({"message": "Welcome to the Stock Price API!"})
 
 @app.route("/price/<symbol>")
 def get_price(symbol):
     try:
-        # Fetch the data for the symbol using yfinance
         stock = yf.Ticker(symbol.upper())
-        data = stock.history(period="1d")  # Get latest data
-        ltp = float(data["Close"].iloc[-1])  # Latest price (close price for the day)
+        data = stock.history(period="1d")
+        ltp = float(data["Close"].iloc[-1])
         return jsonify({"symbol": symbol.upper(), "ltp": ltp})
     except Exception as e:
         return jsonify({"error": str(e)}), 500
@@ -23,7 +27,6 @@ def get_prices():
     prices = {}
     for sym in symbols:
         try:
-            # Fetch the data for the symbol using yfinance
             stock = yf.Ticker(sym)
             data = stock.history(period="1d")
             prices[sym] = float(data["Close"].iloc[-1])
@@ -31,9 +34,6 @@ def get_prices():
             prices[sym] = None
     return jsonify(prices)
 
-
-
-# ✅ Only one main block, correctly indented
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 5000))
     app.run(host="0.0.0.0", port=port, debug=True)
