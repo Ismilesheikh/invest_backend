@@ -23,7 +23,7 @@ def get_price(symbol):
 
 @app.route("/prices")
 def get_prices():
-    symbols = ["TCS", "INFY", "RELIANCE"]
+    symbols = ["TCS.NS", "INFY", "RELIANCE.NS"]
     prices = {}
     for sym in symbols:
         try:
