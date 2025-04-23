@@ -16,10 +16,17 @@ def get_price(symbol):
     try:
         stock = yf.Ticker(symbol.upper())
         data = stock.history(period="1d")
+        company_name = stock.info.get("longName", "Not Available")  # Fetch the full company name
+        if data.empty:
+            return jsonify({"error": "No data found for symbol"}), 404
         ltp = float(data["Close"].iloc[-1])
-        return jsonify({"symbol": symbol.upper(), "ltp": ltp})
+        return jsonify({
+            "symbol": symbol.upper(),
+            "companyName": company_name,
+            "ltp": ltp
+        })
     except Exception as e:
-        return jsonify({"error": str(e)}), 500
+        return jsonify({"error": f"Error fetching data for {symbol}: {str(e)}"}), 500
 
 @app.route("/prices")
 def get_prices():
@@ -29,9 +36,13 @@ def get_prices():
         try:
             stock = yf.Ticker(sym)
             data = stock.history(period="1d")
-            prices[sym] = float(data["Close"].iloc[-1])
+            company_name = stock.info.get("longName", "Not Available")  # Fetch the full company name
+            prices[sym] = {
+                "companyName": company_name,
+                "price": float(data["Close"].iloc[-1]) if not data.empty else None
+            }
         except:
-            prices[sym] = None
+            prices[sym] = {"companyName": "Not Available", "price": None}
     return jsonify(prices)
 
 if __name__ == "__main__":
