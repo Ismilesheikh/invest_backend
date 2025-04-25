@@ -3,7 +3,6 @@ import yfinance as yf
 from flask_cors import CORS
 import os
 import json
-import glob
 
 app = Flask(__name__)
 CORS(app)
@@ -40,3 +39,8 @@ def get_prices_by_index(index_name):
         except:
             prices[sym] = {"companyName": "Not Available", "price": None}
     return jsonify(prices)
+
+# Required for Render.com to detect and bind the correct port
+if __name__ == "__main__":
+    port = int(os.environ.get("PORT", 10000))
+    app.run(host="0.0.0.0", port=port)
