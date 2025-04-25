@@ -8,42 +8,24 @@ import glob
 app = Flask(__name__)
 CORS(app)
 
-@app.route("/")
-def index():
-    return jsonify({"message": "Welcome to Stock Price API!"})
+@app.route("/prices/<index_name>")
+def get_prices_by_index(index_name):
+    index_map = {
+        "nifty500": "data/nifty500.json",
+        "nifty50": "data/nifty50.json"
+    }
 
-@app.route("/price/<symbol>")
-def get_price(symbol):
+    file_path = index_map.get(index_name.lower())
+    if not file_path or not os.path.exists(file_path):
+        return jsonify({"error": "Invalid index name"}), 400
+
     try:
-        stock = yf.Ticker(symbol.upper())
-        data = stock.history(period="1d")
-        company_name = stock.info.get("longName", "Not Available")
-        if data.empty:
-            return jsonify({"error": "No data found for symbol"}), 404
-        ltp = float(data["Close"].iloc[-1])
-        return jsonify({
-            "symbol": symbol.upper(),
-            "companyName": company_name,
-            "ltp": ltp
-        })
+        with open(file_path, "r") as f:
+            data = json.load(f)
+        raw_symbols = data.get("Nifty 500") or data.get("Nifty 50") or []
+        symbols = [s if s.endswith(".NS") else s + ".NS" for s in raw_symbols]
     except Exception as e:
-        return jsonify({"error": f"Error fetching data for {symbol}: {str(e)}"}), 500
-
-@app.route("/prices")
-def get_prices():
-    all_symbols = []
-    try:
-        # Load all JSON files in the data/ directory
-        for file_path in glob.glob("data/*.json"):
-            with open(file_path, "r") as f:
-                data = json.load(f)
-                symbols = data.get("Nifty 500", [])
-                all_symbols.extend(symbols)
-
-        # Add .NS suffix if missing
-        symbols = [sym if sym.endswith(".NS") else sym + ".NS" for sym in all_symbols]
-    except Exception as e:
-        return jsonify({"error": f"Error loading symbol files: {str(e)}"}), 500
+        return jsonify({"error": f"Error loading symbols: {str(e)}"}), 500
 
     prices = {}
     for sym in symbols:
@@ -58,7 +40,3 @@ def get_prices():
         except:
             prices[sym] = {"companyName": "Not Available", "price": None}
     return jsonify(prices)
-
-if __name__ == "__main__":
-    port = int(os.environ.get("PORT", 5000))
-    app.run(host="0.0.0.0", port=port, debug=True)
