@@ -7,6 +7,34 @@ import json
 app = Flask(__name__)
 CORS(app)
 
+@app.route("/")
+def home():
+    return jsonify({
+        "message": "Welcome to Stock API!",
+        "routes": ["/price/<symbol>", "/prices/nifty50", "/prices/nifty500"]
+    })
+
+@app.route("/price/<symbol>")
+def get_price(symbol):
+    try:
+        if not symbol.endswith(".NS"):
+            symbol += ".NS"
+        stock = yf.Ticker(symbol.upper())
+        data = stock.history(period="1d")
+        company_name = stock.info.get("longName", "Not Available")
+
+        if data.empty:
+            return jsonify({"error": "No data found for symbol"}), 404
+
+        ltp = float(data["Close"].iloc[-1])
+        return jsonify({
+            "symbol": symbol.upper(),
+            "companyName": company_name,
+            "ltp": ltp
+        })
+    except Exception as e:
+        return jsonify({"error": f"Error fetching data for {symbol}: {str(e)}"}), 500
+
 @app.route("/prices/<index_name>")
 def get_prices_by_index(index_name):
     index_map = {
@@ -40,7 +68,6 @@ def get_prices_by_index(index_name):
             prices[sym] = {"companyName": "Not Available", "price": None}
     return jsonify(prices)
 
-# Required for Render.com to detect and bind the correct port
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 10000))
     app.run(host="0.0.0.0", port=port)
