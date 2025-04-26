@@ -1,5 +1,5 @@
 {
-    "ADANIENT.NS": {
+   "Nifty 50": {"ADANIENT.NS": {
       "companyName": "Adani Enterprises Limited",
       "price": 2354.30004882813
     },
@@ -198,5 +198,5 @@
     "ULTRACEMCO.NS": {
       "companyName": "UltraTech Cement Limited",
       "price": 12237
-    }
+    }}
   }
