@@ -1,5 +1,202 @@
-["Nifty 500"
-{"360ONE.NS"
-}
-
-]
+{
+    "ADANIENT.NS": {
+      "companyName": "Adani Enterprises Limited",
+      "price": 2354.30004882813
+    },
+    "ADANIPORTS.NS": {
+      "companyName": "Adani Ports and Special Economic Zone Limited",
+      "price": 1193
+    },
+    "APOLLOHOSP.NS": {
+      "companyName": "Apollo Hospitals Enterprise Limited",
+      "price": 6953
+    },
+    "ASIANPAINT.NS": {
+      "companyName": "Asian Paints Limited",
+      "price": 2431.60009765625
+    },
+    "AXISBANK.NS": {
+      "companyName": "Axis Bank Limited",
+      "price": 1166.30004882813
+    },
+    "BAJAJ-AUTO.NS": {
+      "companyName": "Bajaj Auto Limited",
+      "price": 8034
+    },
+    "BAJAJFINSV.NS": {
+      "companyName": "Bajaj Finserv Ltd.",
+      "price": 2045.5
+    },
+    "BAJFINANCE.NS": {
+      "companyName": "Bajaj Finance Limited",
+      "price": 9112
+    },
+    "BEL.NS": {
+      "companyName": "Bharat Electronics Limited",
+      "price": 297.600006103516
+    },
+    "BHARTIARTL.NS": {
+      "companyName": "Bharti Airtel Limited",
+      "price": 1817.19995117188
+    },
+    "CIPLA.NS": {
+      "companyName": "Cipla Limited",
+      "price": 1525.90002441406
+    },
+    "COALINDIA.NS": {
+      "companyName": "Coal India Limited",
+      "price": 393.149993896484
+    },
+    "DRREDDY.NS": {
+      "companyName": "Dr. Reddy's Laboratories Limited",
+      "price": 1174.80004882813
+    },
+    "EICHERMOT.NS": {
+      "companyName": "Eicher Motors Limited",
+      "price": 5575.5
+    },
+    "ETERNAL.NS": {
+      "companyName": "Eternal Limited",
+      "price": 228.809997558594
+    },
+    "GRASIM.NS": {
+      "companyName": "Grasim Industries Limited",
+      "price": 2734.80004882813
+    },
+    "HCLTECH.NS": {
+      "companyName": "HCL Technologies Limited",
+      "price": 1578.19995117188
+    },
+    "HDFCBANK.NS": {
+      "companyName": "HDFC Bank Limited",
+      "price": 1911.19995117188
+    },
+    "HDFCLIFE.NS": {
+      "companyName": "HDFC Life Insurance Company Limited",
+      "price": 704.549987792969
+    },
+    "HEROMOTOCO.NS": {
+      "companyName": "Hero MotoCorp Limited",
+      "price": 3895.5
+    },
+    "HINDALCO.NS": {
+      "companyName": "Hindalco Industries Limited",
+      "price": 622.099975585938
+    },
+    "HINDUNILVR.NS": {
+      "companyName": "Hindustan Unilever Limited",
+      "price": 2332.19995117188
+    },
+    "ICICIBANK.NS": {
+      "companyName": "ICICI Bank Limited",
+      "price": 1404.80004882813
+    },
+    "INDUSINDBK.NS": {
+      "companyName": "IndusInd Bank Limited",
+      "price": 822.349975585938
+    },
+    "INFY.NS": {
+      "companyName": "Infosys Limited",
+      "price": 1480.19995117188
+    },
+    "ITC.NS": {
+      "companyName": "ITC Limited",
+      "price": 427.799987792969
+    },
+    "JIOFIN.NS": {
+      "companyName": "Jio Financial Services Limited",
+      "price": 253.050003051758
+    },
+    "JSWSTEEL.NS": {
+      "companyName": "JSW Steel Limited",
+      "price": 1028.40002441406
+    },
+    "KOTAKBANK.NS": {
+      "companyName": "Kotak Mahindra Bank Limited",
+      "price": 2204.39990234375
+    },
+    "LT.NS": {
+      "companyName": "Larsen & Toubro Limited",
+      "price": 3272.10009765625
+    },
+    "M&M.NS": {
+      "companyName": "Mahindra & Mahindra Limited",
+      "price": 2864.19995117188
+    },
+    "MARUTI.NS": {
+      "companyName": "Maruti Suzuki India Limited",
+      "price": 11698
+    },
+    "NESTLEIND.NS": {
+      "companyName": "Nestlé India Limited",
+      "price": 2413.5
+    },
+    "NIFTY 50.NS": {
+      "companyName": "Not Available",
+      "price": null
+    },
+    "NTPC.NS": {
+      "companyName": "NTPC Limited",
+      "price": 356.450012207031
+    },
+    "ONGC.NS": {
+      "companyName": "Oil and Natural Gas Corporation Limited",
+      "price": 246.330001831055
+    },
+    "POWERGRID.NS": {
+      "companyName": "Power Grid Corporation of India Limited",
+      "price": 306.5
+    },
+    "RELIANCE.NS": {
+      "companyName": "Reliance Industries Limited",
+      "price": 1300.40002441406
+    },
+    "SBILIFE.NS": {
+      "companyName": "SBI Life Insurance Company Limited",
+      "price": 1695.09997558594
+    },
+    "SBIN.NS": {
+      "companyName": "State Bank of India",
+      "price": 798.650024414063
+    },
+    "SHRIRAMFIN.NS": {
+      "companyName": "Shriram Finance Limited",
+      "price": 655.200012207031
+    },
+    "SUNPHARMA.NS": {
+      "companyName": "Sun Pharmaceutical Industries Limited",
+      "price": 1787.40002441406
+    },
+    "TATACONSUM.NS": {
+      "companyName": "Tata Consumer Products Limited",
+      "price": 1155.69995117188
+    },
+    "TATAMOTORS.NS": {
+      "companyName": "Tata Motors Limited",
+      "price": 655.25
+    },
+    "TATASTEEL.NS": {
+      "companyName": "Tata Steel Limited",
+      "price": 138.850006103516
+    },
+    "TCS.NS": {
+      "companyName": "Tata Consultancy Services Limited",
+      "price": 3448
+    },
+    "TECHM.NS": {
+      "companyName": "Tech Mahindra Limited",
+      "price": 1462
+    },
+    "TITAN.NS": {
+      "companyName": "Titan Company Limited",
+      "price": 3365.19995117188
+    },
+    "TRENT.NS": {
+      "companyName": "Trent Limited",
+      "price": 5145
+    },
+    "ULTRACEMCO.NS": {
+      "companyName": "UltraTech Cement Limited",
+      "price": 12237
+    }
+  }
