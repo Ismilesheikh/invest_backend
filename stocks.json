@@ -1,2204 +1,2204 @@
 {
-   "Nifty 50": {"ADANIENT.NS": {
+   "Nifty 50": {"ADANIENT": {
       "companyName": "Adani Enterprises Limited",
       "price": 2354.30004882813
     },
-    "ADANIPORTS.NS": {
+    "ADANIPORTS": {
       "companyName": "Adani Ports and Special Economic Zone Limited",
       "price": 1193
     },
-    "APOLLOHOSP.NS": {
+    "APOLLOHOSP": {
       "companyName": "Apollo Hospitals Enterprise Limited",
       "price": 6953
     },
-    "ASIANPAINT.NS": {
+    "ASIANPAINT": {
       "companyName": "Asian Paints Limited",
       "price": 2431.60009765625
     },
-    "AXISBANK.NS": {
+    "AXISBANK": {
       "companyName": "Axis Bank Limited",
       "price": 1166.30004882813
     },
-    "BAJAJ-AUTO.NS": {
+    "BAJAJ-AUTO": {
       "companyName": "Bajaj Auto Limited",
       "price": 8034
     },
-    "BAJAJFINSV.NS": {
+    "BAJAJFINSV": {
       "companyName": "Bajaj Finserv Ltd.",
       "price": 2045.5
     },
-    "BAJFINANCE.NS": {
+    "BAJFINANCE": {
       "companyName": "Bajaj Finance Limited",
       "price": 9112
     },
-    "BEL.NS": {
+    "BEL": {
       "companyName": "Bharat Electronics Limited",
       "price": 297.600006103516
     },
-    "BHARTIARTL.NS": {
+    "BHARTIARTL": {
       "companyName": "Bharti Airtel Limited",
       "price": 1817.19995117188
     },
-    "CIPLA.NS": {
+    "CIPLA": {
       "companyName": "Cipla Limited",
       "price": 1525.90002441406
     },
-    "COALINDIA.NS": {
+    "COALINDIA": {
       "companyName": "Coal India Limited",
       "price": 393.149993896484
     },
-    "DRREDDY.NS": {
+    "DRREDDY": {
       "companyName": "Dr. Reddy's Laboratories Limited",
       "price": 1174.80004882813
     },
-    "EICHERMOT.NS": {
+    "EICHERMOT": {
       "companyName": "Eicher Motors Limited",
       "price": 5575.5
     },
-    "ETERNAL.NS": {
+    "ETERNAL": {
       "companyName": "Eternal Limited",
       "price": 228.809997558594
     },
-    "GRASIM.NS": {
+    "GRASIM": {
       "companyName": "Grasim Industries Limited",
       "price": 2734.80004882813
     },
-    "HCLTECH.NS": {
+    "HCLTECH": {
       "companyName": "HCL Technologies Limited",
       "price": 1578.19995117188
     },
-    "HDFCBANK.NS": {
+    "HDFCBANK": {
       "companyName": "HDFC Bank Limited",
       "price": 1911.19995117188
     },
-    "HDFCLIFE.NS": {
+    "HDFCLIFE": {
       "companyName": "HDFC Life Insurance Company Limited",
       "price": 704.549987792969
     },
-    "HEROMOTOCO.NS": {
+    "HEROMOTOCO": {
       "companyName": "Hero MotoCorp Limited",
       "price": 3895.5
     },
-    "HINDALCO.NS": {
+    "HINDALCO": {
       "companyName": "Hindalco Industries Limited",
       "price": 622.099975585938
     },
-    "HINDUNILVR.NS": {
+    "HINDUNILVR": {
       "companyName": "Hindustan Unilever Limited",
       "price": 2332.19995117188
     },
-    "ICICIBANK.NS": {
+    "ICICIBANK": {
       "companyName": "ICICI Bank Limited",
       "price": 1404.80004882813
     },
-    "INDUSINDBK.NS": {
+    "INDUSINDBK": {
       "companyName": "IndusInd Bank Limited",
       "price": 822.349975585938
     },
-    "INFY.NS": {
+    "INFY": {
       "companyName": "Infosys Limited",
       "price": 1480.19995117188
     },
-    "ITC.NS": {
+    "ITC": {
       "companyName": "ITC Limited",
       "price": 427.799987792969
     },
-    "JIOFIN.NS": {
+    "JIOFIN": {
       "companyName": "Jio Financial Services Limited",
       "price": 253.050003051758
     },
-    "JSWSTEEL.NS": {
+    "JSWSTEEL": {
       "companyName": "JSW Steel Limited",
       "price": 1028.40002441406
     },
-    "KOTAKBANK.NS": {
+    "KOTAKBANK": {
       "companyName": "Kotak Mahindra Bank Limited",
       "price": 2204.39990234375
     },
-    "LT.NS": {
+    "LT": {
       "companyName": "Larsen & Toubro Limited",
       "price": 3272.10009765625
     },
-    "M&M.NS": {
+    "M&M": {
       "companyName": "Mahindra & Mahindra Limited",
       "price": 2864.19995117188
     },
-    "MARUTI.NS": {
+    "MARUTI": {
       "companyName": "Maruti Suzuki India Limited",
       "price": 11698
     },
-    "NESTLEIND.NS": {
+    "NESTLEIND": {
       "companyName": "Nestlé India Limited",
       "price": 2413.5
     },
-    "NIFTY 50.NS": {
+    "NIFTY 50": {
       "companyName": "Not Available",
       "price": null
     },
-    "NTPC.NS": {
+    "NTPC": {
       "companyName": "NTPC Limited",
       "price": 356.450012207031
     },
-    "ONGC.NS": {
+    "ONGC": {
       "companyName": "Oil and Natural Gas Corporation Limited",
       "price": 246.330001831055
     },
-    "POWERGRID.NS": {
+    "POWERGRID": {
       "companyName": "Power Grid Corporation of India Limited",
       "price": 306.5
     },
-    "RELIANCE.NS": {
+    "RELIANCE": {
       "companyName": "Reliance Industries Limited",
       "price": 1300.40002441406
     },
-    "SBILIFE.NS": {
+    "SBILIFE": {
       "companyName": "SBI Life Insurance Company Limited",
       "price": 1695.09997558594
     },
-    "SBIN.NS": {
+    "SBIN": {
       "companyName": "State Bank of India",
       "price": 798.650024414063
     },
-    "SHRIRAMFIN.NS": {
+    "SHRIRAMFIN": {
       "companyName": "Shriram Finance Limited",
       "price": 655.200012207031
     },
-    "SUNPHARMA.NS": {
+    "SUNPHARMA": {
       "companyName": "Sun Pharmaceutical Industries Limited",
       "price": 1787.40002441406
     },
-    "TATACONSUM.NS": {
+    "TATACONSUM": {
       "companyName": "Tata Consumer Products Limited",
       "price": 1155.69995117188
     },
-    "TATAMOTORS.NS": {
+    "TATAMOTORS": {
       "companyName": "Tata Motors Limited",
       "price": 655.25
     },
-    "TATASTEEL.NS": {
+    "TATASTEEL": {
       "companyName": "Tata Steel Limited",
       "price": 138.850006103516
     },
-    "TCS.NS": {
+    "TCS": {
       "companyName": "Tata Consultancy Services Limited",
       "price": 3448
     },
-    "TECHM.NS": {
+    "TECHM": {
       "companyName": "Tech Mahindra Limited",
       "price": 1462
     },
-    "TITAN.NS": {
+    "TITAN": {
       "companyName": "Titan Company Limited",
       "price": 3365.19995117188
     },
-    "TRENT.NS": {
+    "TRENT": {
       "companyName": "Trent Limited",
       "price": 5145
     },
-    "ULTRACEMCO.NS": {
+    "ULTRACEMCO": {
       "companyName": "UltraTech Cement Limited",
       "price": 12237
     }
   },
 
     "Nifty 500":{
-      "360ONE.NS": {
+      "360ONE": {
         "companyName": "360 One Wam Limited",
         "price": 971.700012207031
       },
-      "3MINDIA.NS": {
+      "3MINDIA": {
         "companyName": "3M India Limited",
         "price": 30020
       },
-      "AADHARHFC.NS": {
+      "AADHARHFC": {
         "companyName": "Not Available",
         "price": 456.75
       },
-      "AARTIIND.NS": {
+      "AARTIIND": {
         "companyName": "Aarti Industries Limited",
         "price": 428.950012207031
       },
-      "AAVAS.NS": {
+      "AAVAS": {
         "companyName": "Aavas Financiers Limited",
         "price": 2038.09997558594
       },
-      "ABB.NS": {
+      "ABB": {
         "companyName": "ABB India Limited",
         "price": 5499
       },
-      "ABBOTINDIA.NS": {
+      "ABBOTINDIA": {
         "companyName": "Abbott India Limited",
         "price": 29705
       },
-      "ABCAPITAL.NS": {
+      "ABCAPITAL": {
         "companyName": "Aditya Birla Capital Limited",
         "price": 195.940002441406
       },
-      "ABFRL.NS": {
+      "ABFRL": {
         "companyName": "Aditya Birla Fashion and Retail Limited",
         "price": 264.149993896484
       },
-      "ABREL.NS": {
+      "ABREL": {
         "companyName": "Aditya Birla Real Estate Limited",
         "price": 1918.59997558594
       },
-      "ABSLAMC.NS": {
+      "ABSLAMC": {
         "companyName": "Aditya Birla Sun Life AMC Limited",
         "price": 642.299987792969
       },
-      "ACC.NS": {
+      "ACC": {
         "companyName": "ACC Limited",
         "price": 1938
       },
-      "ACE.NS": {
+      "ACE": {
         "companyName": "Action Construction Equipment Limited",
         "price": 1203.30004882813
       },
-      "ACMESOLAR.NS": {
+      "ACMESOLAR": {
         "companyName": "ACME Solar Holdings Limited",
         "price": 212.270004272461
       },
-      "ADANIENSOL.NS": {
+      "ADANIENSOL": {
         "companyName": "Adani Energy Solutions Limited",
         "price": 914.349975585938
       },
-      "ADANIENT.NS": {
+      "ADANIENT": {
         "companyName": "Adani Enterprises Limited",
         "price": 2354.30004882813
       },
-      "ADANIGREEN.NS": {
+      "ADANIGREEN": {
         "companyName": "Adani Green Energy Limited",
         "price": 912.549987792969
       },
-      "ADANIPORTS.NS": {
+      "ADANIPORTS": {
         "companyName": "Adani Ports and Special Economic Zone Limited",
         "price": 1193
       },
-      "ADANIPOWER.NS": {
+      "ADANIPOWER": {
         "companyName": "Adani Power Limited",
         "price": 549.349975585938
       },
-      "AEGISLOG.NS": {
+      "AEGISLOG": {
         "companyName": "Not Available",
         "price": 775.950012207031
       },
-      "AFCONS.NS": {
+      "AFCONS": {
         "companyName": "Not Available",
         "price": 422.950012207031
       },
-      "AFFLE.NS": {
+      "AFFLE": {
         "companyName": "Affle 3i Limited",
         "price": 1603
       },
-      "AIAENG.NS": {
+      "AIAENG": {
         "companyName": "AIA Engineering Limited",
         "price": 3177.19995117188
       },
-      "AIIL.NS": {
+      "AIIL": {
         "companyName": "Authum Investment & Infrastructure Limited",
         "price": 1724.59997558594
       },
-      "AJANTPHARM.NS": {
+      "AJANTPHARM": {
         "companyName": "Ajanta Pharma Limited",
         "price": 2676
       },
-      "AKUMS.NS": {
+      "AKUMS": {
         "companyName": "Not Available",
         "price": 530.599975585938
       },
-      "ALIVUS.NS": {
+      "ALIVUS": {
         "companyName": "Alivus Life Sciences Limited",
         "price": 1036.30004882813
       },
-      "ALKEM.NS": {
+      "ALKEM": {
         "companyName": "Alkem Laboratories Limited",
         "price": 5033.5
       },
-      "ALKYLAMINE.NS": {
+      "ALKYLAMINE": {
         "companyName": "Alkyl Amines Chemicals Limited",
         "price": 1808.40002441406
       },
-      "ALOKINDS.NS": {
+      "ALOKINDS": {
         "companyName": "Alok Industries Limited",
         "price": 17.3500003814697
       },
-      "AMBER.NS": {
+      "AMBER": {
         "companyName": "Amber Enterprises India Limited",
         "price": 6394
       },
-      "AMBUJACEM.NS": {
+      "AMBUJACEM": {
         "companyName": "Ambuja Cements Limited",
         "price": 548.700012207031
       },
-      "ANANDRATHI.NS": {
+      "ANANDRATHI": {
         "companyName": "Anand Rathi Wealth Limited",
         "price": 1759.40002441406
       },
-      "ANANTRAJ.NS": {
+      "ANANTRAJ": {
         "companyName": "Anant Raj Limited",
         "price": 458.600006103516
       },
-      "ANGELONE.NS": {
+      "ANGELONE": {
         "companyName": "Angel One Limited",
         "price": 2328.39990234375
       },
-      "APARINDS.NS": {
+      "APARINDS": {
         "companyName": "APAR Industries Limited",
         "price": 5539.5
       },
-      "APLAPOLLO.NS": {
+      "APLAPOLLO": {
         "companyName": "APL Apollo Tubes Limited",
         "price": 1616.90002441406
       },
-      "APLLTD.NS": {
+      "APLLTD": {
         "companyName": "Alembic Pharmaceuticals Limited",
         "price": 875.450012207031
       },
-      "APOLLOHOSP.NS": {
+      "APOLLOHOSP": {
         "companyName": "Apollo Hospitals Enterprise Limited",
         "price": 6953
       },
-      "APOLLOTYRE.NS": {
+      "APOLLOTYRE": {
         "companyName": "Apollo Tyres Limited",
         "price": 461.399993896484
       },
-      "APTUS.NS": {
+      "APTUS": {
         "companyName": "Aptus Value Housing Finance India Limited",
         "price": 326.700012207031
       },
-      "ARE&M.NS": {
+      "ARE&M": {
         "companyName": "Amara Raja Energy & Mobility Limited",
         "price": 989.200012207031
       },
-      "ASAHIINDIA.NS": {
+      "ASAHIINDIA": {
         "companyName": "Asahi India Glass Limited",
         "price": 704.75
       },
-      "ASHOKLEY.NS": {
+      "ASHOKLEY": {
         "companyName": "Ashok Leyland Limited",
         "price": 225.039993286133
       },
-      "ASIANPAINT.NS": {
+      "ASIANPAINT": {
         "companyName": "Asian Paints Limited",
         "price": 2431.60009765625
       },
-      "ASTERDM.NS": {
+      "ASTERDM": {
         "companyName": "Aster DM Healthcare Limited",
         "price": 505.25
       },
-      "ASTRAL.NS": {
+      "ASTRAL": {
         "companyName": "Astral Limited",
         "price": 1343.59997558594
       },
-      "ASTRAZEN.NS": {
+      "ASTRAZEN": {
         "companyName": "AstraZeneca Pharma India Limited",
         "price": 8725
       },
-      "ATGL.NS": {
+      "ATGL": {
         "companyName": "Adani Total Gas Limited",
         "price": 600
       },
-      "ATUL.NS": {
+      "ATUL": {
         "companyName": "Atul Ltd",
         "price": 6414.5
       },
-      "AUBANK.NS": {
+      "AUBANK": {
         "companyName": "AU Small Finance Bank Limited",
         "price": 675.150024414063
       },
-      "AUROPHARMA.NS": {
+      "AUROPHARMA": {
         "companyName": "Aurobindo Pharma Limited",
         "price": 1220.09997558594
       },
-      "AWL.NS": {
+      "AWL": {
         "companyName": "AWL Agri Business Limited",
         "price": 273.950012207031
       },
-      "AXISBANK.NS": {
+      "AXISBANK": {
         "companyName": "Axis Bank Limited",
         "price": 1166.30004882813
       },
-      "BAJAJ-AUTO.NS": {
+      "BAJAJ-AUTO": {
         "companyName": "Bajaj Auto Limited",
         "price": 8034
       },
-      "BAJAJFINSV.NS": {
+      "BAJAJFINSV": {
         "companyName": "Bajaj Finserv Ltd.",
         "price": 2045.5
       },
-      "BAJAJHFL.NS": {
+      "BAJAJHFL": {
         "companyName": "Not Available",
         "price": 125.040000915527
       },
-      "BAJAJHLDNG.NS": {
+      "BAJAJHLDNG": {
         "companyName": "Bajaj Holdings & Investment Limited",
         "price": 12198
       },
-      "BAJFINANCE.NS": {
+      "BAJFINANCE": {
         "companyName": "Bajaj Finance Limited",
         "price": 9112
       },
-      "BALKRISIND.NS": {
+      "BALKRISIND": {
         "companyName": "Balkrishna Industries Limited",
         "price": 2518.19995117188
       },
-      "BALRAMCHIN.NS": {
+      "BALRAMCHIN": {
         "companyName": "Balrampur Chini Mills Limited",
         "price": 571.950012207031
       },
-      "BANDHANBNK.NS": {
+      "BANDHANBNK": {
         "companyName": "Bandhan Bank Limited",
         "price": 165.449996948242
       },
-      "BANKBARODA.NS": {
+      "BANKBARODA": {
         "companyName": "Bank of Baroda Limited",
         "price": 246.789993286133
       },
-      "BANKINDIA.NS": {
+      "BANKINDIA": {
         "companyName": "Bank of India Limited",
         "price": 115.290000915527
       },
-      "BASF.NS": {
+      "BASF": {
         "companyName": "BASF India Limited",
         "price": 4524.89990234375
       },
-      "BATAINDIA.NS": {
+      "BATAINDIA": {
         "companyName": "Bata India Limited",
         "price": 1210.80004882813
       },
-      "BAYERCROP.NS": {
+      "BAYERCROP": {
         "companyName": "Bayer CropScience Limited",
         "price": 4897.39990234375
       },
-      "BBTC.NS": {
+      "BBTC": {
         "companyName": "The Bombay Burmah Trading Corporation, Limited",
         "price": 1903.5
       },
-      "BDL.NS": {
+      "BDL": {
         "companyName": "Bharat Dynamics Limited",
         "price": 1413.59997558594
       },
-      "BEL.NS": {
+      "BEL": {
         "companyName": "Bharat Electronics Limited",
         "price": 297.600006103516
       },
-      "BEML.NS": {
+      "BEML": {
         "companyName": "BEML Limited",
         "price": 3049.89990234375
       },
-      "BERGEPAINT.NS": {
+      "BERGEPAINT": {
         "companyName": "Berger Paints India Limited",
         "price": 552.5
       },
-      "BHARATFORG.NS": {
+      "BHARATFORG": {
         "companyName": "Bharat Forge Limited",
         "price": 1088.5
       },
-      "BHARTIARTL.NS": {
+      "BHARTIARTL": {
         "companyName": "Bharti Airtel Limited",
         "price": 1817.19995117188
       },
-      "BHARTIHEXA.NS": {
+      "BHARTIHEXA": {
         "companyName": "Not Available",
         "price": 1584.90002441406
       },
-      "BHEL.NS": {
+      "BHEL": {
         "companyName": "Bharat Heavy Electricals Limited",
         "price": 222.369995117188
       },
-      "BIKAJI.NS": {
+      "BIKAJI": {
         "companyName": "Bikaji Foods International Limited",
         "price": 728.849975585938
       },
-      "BIOCON.NS": {
+      "BIOCON": {
         "companyName": "Biocon Limited",
         "price": 311.850006103516
       },
-      "BLS.NS": {
+      "BLS": {
         "companyName": "BLS International Services Limited",
         "price": 371.549987792969
       },
-      "BLUEDART.NS": {
+      "BLUEDART": {
         "companyName": "Blue Dart Express Limited",
         "price": 6401.5
       },
-      "BLUESTARCO.NS": {
+      "BLUESTARCO": {
         "companyName": "Blue Star Limited",
         "price": 1739.19995117188
       },
-      "BOSCHLTD.NS": {
+      "BOSCHLTD": {
         "companyName": "Bosch Limited",
         "price": 27995
       },
-      "BPCL.NS": {
+      "BPCL": {
         "companyName": "Bharat Petroleum Corporation Limited",
         "price": 295.700012207031
       },
-      "BRIGADE.NS": {
+      "BRIGADE": {
         "companyName": "Brigade Enterprises Limited",
         "price": 1023
       },
-      "BRITANNIA.NS": {
+      "BRITANNIA": {
         "companyName": "Britannia Industries Limited",
         "price": 5420.5
       },
-      "BSE.NS": {
+      "BSE": {
         "companyName": "BSE Limited",
         "price": 6303.5
       },
-      "BSOFT.NS": {
+      "BSOFT": {
         "companyName": "Birlasoft Limited",
         "price": 386.049987792969
       },
-      "CAMPUS.NS": {
+      "CAMPUS": {
         "companyName": "Campus Activewear Limited",
         "price": 242.600006103516
       },
-      "CAMS.NS": {
+      "CAMS": {
         "companyName": "Computer Age Management Services Limited",
         "price": 3938.10009765625
       },
-      "CANBK.NS": {
+      "CANBK": {
         "companyName": "Canara Bank",
         "price": 96.5299987792969
       },
-      "CANFINHOME.NS": {
+      "CANFINHOME": {
         "companyName": "Can Fin Homes Limited",
         "price": 723.150024414063
       },
-      "CAPLIPOINT.NS": {
+      "CAPLIPOINT": {
         "companyName": "Caplin Point Laboratories Limited",
         "price": 1806.69995117188
       },
-      "CARBORUNIV.NS": {
+      "CARBORUNIV": {
         "companyName": "Carborundum Universal Limited",
         "price": 1026
       },
-      "CASTROLIND.NS": {
+      "CASTROLIND": {
         "companyName": "Castrol India Limited",
         "price": 202.979995727539
       },
-      "CCL.NS": {
+      "CCL": {
         "companyName": "CCL Products (India) Limited",
         "price": 613.900024414063
       },
-      "CDSL.NS": {
+      "CDSL": {
         "companyName": "Central Depository Services (India) Limited",
         "price": 1330.90002441406
       },
-      "CEATLTD.NS": {
+      "CEATLTD": {
         "companyName": "CEAT Limited",
         "price": 3034.5
       },
-      "CENTRALBK.NS": {
+      "CENTRALBK": {
         "companyName": "Central Bank of India",
         "price": 36.9000015258789
       },
-      "CENTURYPLY.NS": {
+      "CENTURYPLY": {
         "companyName": "Century Plyboards (India) Limited",
         "price": 718.950012207031
       },
-      "CERA.NS": {
+      "CERA": {
         "companyName": "Cera Sanitaryware Limited",
         "price": 5471.5
       },
-      "CESC.NS": {
+      "CESC": {
         "companyName": "CESC Limited",
         "price": 153.960006713867
       },
-      "CGCL.NS": {
+      "CGCL": {
         "companyName": "Capri Global Capital Limited",
         "price": 160.649993896484
       },
-      "CGPOWER.NS": {
+      "CGPOWER": {
         "companyName": "CG Power and Industrial Solutions Limited",
         "price": 633.099975585938
       },
-      "CHALET.NS": {
+      "CHALET": {
         "companyName": "Chalet Hotels Limited",
         "price": 825.549987792969
       },
-      "CHAMBLFERT.NS": {
+      "CHAMBLFERT": {
         "companyName": "Chambal Fertilisers and Chemicals Limited",
         "price": 676.849975585938
       },
-      "CHENNPETRO.NS": {
+      "CHENNPETRO": {
         "companyName": "Chennai Petroleum Corporation Limited",
         "price": 631
       },
-      "CHOLAFIN.NS": {
+      "CHOLAFIN": {
         "companyName": "Cholamandalam Investment and Finance Company Limited",
         "price": 1543.5
       },
-      "CHOLAHLDNG.NS": {
+      "CHOLAHLDNG": {
         "companyName": "Cholamandalam Financial Holdings Limited",
         "price": 1980.30004882813
       },
-      "CIPLA.NS": {
+      "CIPLA": {
         "companyName": "Cipla Limited",
         "price": 1525.90002441406
       },
-      "CLEAN.NS": {
+      "CLEAN": {
         "companyName": "Clean Science and Technology Limited",
         "price": 1194.30004882813
       },
-      "COALINDIA.NS": {
+      "COALINDIA": {
         "companyName": "Coal India Limited",
         "price": 393.149993896484
       },
-      "COCHINSHIP.NS": {
+      "COCHINSHIP": {
         "companyName": "Cochin Shipyard Limited",
         "price": 1415.5
       },
-      "COFORGE.NS": {
+      "COFORGE": {
         "companyName": "Coforge Limited",
         "price": 7390
       },
-      "COLPAL.NS": {
+      "COLPAL": {
         "companyName": "Colgate-Palmolive (India) Limited",
         "price": 2671.39990234375
       },
-      "CONCOR.NS": {
+      "CONCOR": {
         "companyName": "Container Corporation of India Limited",
         "price": 678.75
       },
-      "CONCORDBIO.NS": {
+      "CONCORDBIO": {
         "companyName": "Concord Biotech Limited",
         "price": 1588
       },
-      "COROMANDEL.NS": {
+      "COROMANDEL": {
         "companyName": "Coromandel International Limited",
         "price": 2201.5
       },
-      "CRAFTSMAN.NS": {
+      "CRAFTSMAN": {
         "companyName": "Craftsman Automation Limited",
         "price": 4779.60009765625
       },
-      "CREDITACC.NS": {
+      "CREDITACC": {
         "companyName": "CreditAccess Grameen Limited",
         "price": 1120.69995117188
       },
-      "CRISIL.NS": {
+      "CRISIL": {
         "companyName": "CRISIL Limited",
         "price": 4524.7001953125
       },
-      "CROMPTON.NS": {
+      "CROMPTON": {
         "companyName": "Crompton Greaves Consumer Electricals Limited",
         "price": 334.850006103516
       },
-      "CUB.NS": {
+      "CUB": {
         "companyName": "City Union Bank Limited",
         "price": 177.389999389648
       },
-      "CUMMINSIND.NS": {
+      "CUMMINSIND": {
         "companyName": "Cummins India Limited",
         "price": 2861.10009765625
       },
-      "CYIENT.NS": {
+      "CYIENT": {
         "companyName": "Cyient Limited",
         "price": 1170.80004882813
       },
-      "DABUR.NS": {
+      "DABUR": {
         "companyName": "Dabur India Limited",
         "price": 484.600006103516
       },
-      "DALBHARAT.NS": {
+      "DALBHARAT": {
         "companyName": "Dalmia Bharat Limited",
         "price": 1965.90002441406
       },
-      "DATAPATTNS.NS": {
+      "DATAPATTNS": {
         "companyName": "Data Patterns (India) Limited",
         "price": 2086.60009765625
       },
-      "DBREALTY.NS": {
+      "DBREALTY": {
         "companyName": "Valor Estate Limited",
         "price": 177.350006103516
       },
-      "DCMSHRIRAM.NS": {
+      "DCMSHRIRAM": {
         "companyName": "DCM Shriram Limited",
         "price": 1020.29998779297
       },
-      "DEEPAKFERT.NS": {
+      "DEEPAKFERT": {
         "companyName": "Deepak Fertilisers And Petrochemicals Corporation Limited",
         "price": 1309.30004882813
       },
-      "DEEPAKNTR.NS": {
+      "DEEPAKNTR": {
         "companyName": "Deepak Nitrite Limited",
         "price": 1961.30004882813
       },
-      "DELHIVERY.NS": {
+      "DELHIVERY": {
         "companyName": "Delhivery Limited",
         "price": 304.899993896484
       },
-      "DEVYANI.NS": {
+      "DEVYANI": {
         "companyName": "Devyani International Limited",
         "price": 175.199996948242
       },
-      "DIVISLAB.NS": {
+      "DIVISLAB": {
         "companyName": "Divi's Laboratories Limited",
         "price": 6012.5
       },
-      "DIXON.NS": {
+      "DIXON": {
         "companyName": "Dixon Technologies (India) Limited",
         "price": 16219
       },
-      "DLF.NS": {
+      "DLF": {
         "companyName": "DLF Limited",
         "price": 653.549987792969
       },
-      "DMART.NS": {
+      "DMART": {
         "companyName": "Avenue Supermarts Limited",
         "price": 4375.2001953125
       },
-      "DOMS.NS": {
+      "DOMS": {
         "companyName": "DOMS Industries Limited",
         "price": 2819
       },
-      "DRREDDY.NS": {
+      "DRREDDY": {
         "companyName": "Dr. Reddy's Laboratories Limited",
         "price": 1174.80004882813
       },
-      "ECLERX.NS": {
+      "ECLERX": {
         "companyName": "eClerx Services Limited",
         "price": 2563.60009765625
       },
-      "EICHERMOT.NS": {
+      "EICHERMOT": {
         "companyName": "Eicher Motors Limited",
         "price": 5575.5
       },
-      "EIDPARRY.NS": {
+      "EIDPARRY": {
         "companyName": "E.I.D.- Parry (India) Limited",
         "price": 845
       },
-      "EIHOTEL.NS": {
+      "EIHOTEL": {
         "companyName": "EIH Limited",
         "price": 383.799987792969
       },
-      "ELECON.NS": {
+      "ELECON": {
         "companyName": "Elecon Engineering Company Limited",
         "price": 517.75
       },
-      "ELGIEQUIP.NS": {
+      "ELGIEQUIP": {
         "companyName": "Elgi Equipments Limited",
         "price": 454.549987792969
       },
-      "EMAMILTD.NS": {
+      "EMAMILTD": {
         "companyName": "Emami Limited",
         "price": 619.799987792969
       },
-      "EMCURE.NS": {
+      "EMCURE": {
         "companyName": "Not Available",
         "price": 1029.69995117188
       },
-      "ENDURANCE.NS": {
+      "ENDURANCE": {
         "companyName": "Endurance Technologies Limited",
         "price": 1922.09997558594
       },
-      "ENGINERSIN.NS": {
+      "ENGINERSIN": {
         "companyName": "Engineers India Limited",
         "price": 179.369995117188
       },
-      "ERIS.NS": {
+      "ERIS": {
         "companyName": "Eris Lifesciences Limited",
         "price": 1468.19995117188
       },
-      "ESCORTS.NS": {
+      "ESCORTS": {
         "companyName": "Escorts Kubota Limited",
         "price": 3333.69995117188
       },
-      "ETERNAL.NS": {
+      "ETERNAL": {
         "companyName": "Eternal Limited",
         "price": 228.809997558594
       },
-      "EXIDEIND.NS": {
+      "EXIDEIND": {
         "companyName": "Exide Industries Limited",
         "price": 370.5
       },
-      "FACT.NS": {
+      "FACT": {
         "companyName": "The Fertilisers and Chemicals Travancore Limited",
         "price": 739.049987792969
       },
-      "FEDERALBNK.NS": {
+      "FEDERALBNK": {
         "companyName": "The Federal Bank Limited",
         "price": 196.490005493164
       },
-      "FINCABLES.NS": {
+      "FINCABLES": {
         "companyName": "Finolex Cables Limited",
         "price": 864.700012207031
       },
-      "FINPIPE.NS": {
+      "FINPIPE": {
         "companyName": "Finolex Industries Limited",
         "price": 171.910003662109
       },
-      "FIRSTCRY.NS": {
+      "FIRSTCRY": {
         "companyName": "Not Available",
         "price": 339.049987792969
       },
-      "FIVESTAR.NS": {
+      "FIVESTAR": {
         "companyName": "Five-Star Business Finance Limited",
         "price": 796.950012207031
       },
-      "FLUOROCHEM.NS": {
+      "FLUOROCHEM": {
         "companyName": "Gujarat Fluorochemicals Limited",
         "price": 3977.89990234375
       },
-      "FORTIS.NS": {
+      "FORTIS": {
         "companyName": "Fortis Healthcare Limited",
         "price": 654.650024414063
       },
-      "FSL.NS": {
+      "FSL": {
         "companyName": "Firstsource Solutions Limited",
         "price": 349.25
       },
-      "GAIL.NS": {
+      "GAIL": {
         "companyName": "GAIL (India) Limited",
         "price": 186.740005493164
       },
-      "GESHIP.NS": {
+      "GESHIP": {
         "companyName": "The Great Eastern Shipping Company Limited",
         "price": 886.700012207031
       },
-      "GICRE.NS": {
+      "GICRE": {
         "companyName": "General Insurance Corporation of India",
         "price": 428
       },
-      "GILLETTE.NS": {
+      "GILLETTE": {
         "companyName": "Gillette India Limited",
         "price": 8167
       },
-      "GLAND.NS": {
+      "GLAND": {
         "companyName": "Gland Pharma Limited",
         "price": 1447.90002441406
       },
-      "GLAXO.NS": {
+      "GLAXO": {
         "companyName": "GlaxoSmithKline Pharmaceuticals Limited",
         "price": 2802.69995117188
       },
-      "GLENMARK.NS": {
+      "GLENMARK": {
         "companyName": "Glenmark Pharmaceuticals Limited",
         "price": 1360.69995117188
       },
-      "GMDCLTD.NS": {
+      "GMDCLTD": {
         "companyName": "Gujarat Mineral Development Corporation Limited",
         "price": 309.100006103516
       },
-      "GMRAIRPORT.NS": {
+      "GMRAIRPORT": {
         "companyName": "GMR Airports Limited",
         "price": 85.5
       },
-      "GNFC.NS": {
+      "GNFC": {
         "companyName": "Gujarat Narmada Valley Fertilizers & Chemicals Limited",
         "price": 487.600006103516
       },
-      "GODFRYPHLP.NS": {
+      "GODFRYPHLP": {
         "companyName": "Godfrey Phillips India Limited",
         "price": 8020.5
       },
-      "GODIGIT.NS": {
+      "GODIGIT": {
         "companyName": "Not Available",
         "price": 298.649993896484
       },
-      "GODREJAGRO.NS": {
+      "GODREJAGRO": {
         "companyName": "Godrej Agrovet Limited",
         "price": 768.349975585938
       },
-      "GODREJCP.NS": {
+      "GODREJCP": {
         "companyName": "Godrej Consumer Products Limited",
         "price": 1266.5
       },
-      "GODREJIND.NS": {
+      "GODREJIND": {
         "companyName": "Godrej Industries Limited",
         "price": 1099
       },
-      "GODREJPROP.NS": {
+      "GODREJPROP": {
         "companyName": "Godrej Properties Limited",
         "price": 2085.30004882813
       },
-      "GPIL.NS": {
+      "GPIL": {
         "companyName": "Godawari Power & Ispat Limited",
         "price": 196.399993896484
       },
-      "GPPL.NS": {
+      "GPPL": {
         "companyName": "Gujarat Pipavav Port Limited",
         "price": 141.339996337891
       },
-      "GRANULES.NS": {
+      "GRANULES": {
         "companyName": "Granules India Limited",
         "price": 452.549987792969
       },
-      "GRAPHITE.NS": {
+      "GRAPHITE": {
         "companyName": "Graphite India Limited",
         "price": 461.899993896484
       },
-      "GRASIM.NS": {
+      "GRASIM": {
         "companyName": "Grasim Industries Limited",
         "price": 2734.80004882813
       },
-      "GRAVITA.NS": {
+      "GRAVITA": {
         "companyName": "Gravita India Limited",
         "price": 1884.59997558594
       },
-      "GRSE.NS": {
+      "GRSE": {
         "companyName": "Garden Reach Shipbuilders & Engineers Limited",
         "price": 1616.80004882813
       },
-      "GSPL.NS": {
+      "GSPL": {
         "companyName": "Gujarat State Petronet Limited",
         "price": 321.299987792969
       },
-      "GUJGASLTD.NS": {
+      "GUJGASLTD": {
         "companyName": "Gujarat Gas Limited",
         "price": 451.200012207031
       },
-      "GVT&D.NS": {
+      "GVT&D": {
         "companyName": "GE Vernova T&D India Limited",
         "price": 1771.09997558594
       },
-      "HAL.NS": {
+      "HAL": {
         "companyName": "Hindustan Aeronautics Limited",
         "price": 4196.39990234375
       },
-      "HAPPSTMNDS.NS": {
+      "HAPPSTMNDS": {
         "companyName": "Happiest Minds Technologies Limited",
         "price": 585.5
       },
-      "HAVELLS.NS": {
+      "HAVELLS": {
         "companyName": "Havells India Limited",
         "price": 1599.80004882813
       },
-      "HBLENGINE.NS": {
+      "HBLENGINE": {
         "companyName": "Not Available",
         "price": 511.200012207031
       },
-      "HCLTECH.NS": {
+      "HCLTECH": {
         "companyName": "HCL Technologies Limited",
         "price": 1578.19995117188
       },
-      "HDFCAMC.NS": {
+      "HDFCAMC": {
         "companyName": "HDFC Asset Management Company Limited",
         "price": 4382.5
       },
-      "HDFCBANK.NS": {
+      "HDFCBANK": {
         "companyName": "HDFC Bank Limited",
         "price": 1911.19995117188
       },
-      "HDFCLIFE.NS": {
+      "HDFCLIFE": {
         "companyName": "HDFC Life Insurance Company Limited",
         "price": 704.549987792969
       },
-      "HEG.NS": {
+      "HEG": {
         "companyName": "HEG Limited",
         "price": 464.100006103516
       },
-      "HEROMOTOCO.NS": {
+      "HEROMOTOCO": {
         "companyName": "Hero MotoCorp Limited",
         "price": 3895.5
       },
-      "HFCL.NS": {
+      "HFCL": {
         "companyName": "HFCL Limited",
         "price": 81.1500015258789
       },
-      "HINDALCO.NS": {
+      "HINDALCO": {
         "companyName": "Hindalco Industries Limited",
         "price": 622.099975585938
       },
-      "HINDCOPPER.NS": {
+      "HINDCOPPER": {
         "companyName": "Hindustan Copper Limited",
         "price": 213.479995727539
       },
-      "HINDPETRO.NS": {
+      "HINDPETRO": {
         "companyName": "Hindustan Petroleum Corporation Limited",
         "price": 380.700012207031
       },
-      "HINDUNILVR.NS": {
+      "HINDUNILVR": {
         "companyName": "Hindustan Unilever Limited",
         "price": 2332.19995117188
       },
-      "HINDZINC.NS": {
+      "HINDZINC": {
         "companyName": "Hindustan Zinc Limited",
         "price": 445
       },
-      "HOMEFIRST.NS": {
+      "HOMEFIRST": {
         "companyName": "Home First Finance Company India Limited",
         "price": 1234.5
       },
-      "HONASA.NS": {
+      "HONASA": {
         "companyName": "Honasa Consumer Limited",
         "price": 231.839996337891
       },
-      "HONAUT.NS": {
+      "HONAUT": {
         "companyName": "Honeywell Automation India Limited",
         "price": 34495
       },
-      "HSCL.NS": {
+      "HSCL": {
         "companyName": "Himadri Speciality Chemical Limited",
         "price": 455.700012207031
       },
-      "HUDCO.NS": {
+      "HUDCO": {
         "companyName": "Housing and Urban Development Corporation Limited",
         "price": 220.240005493164
       },
-      "HYUNDAI.NS": {
+      "HYUNDAI": {
         "companyName": "Not Available",
         "price": 1667.69995117188
       },
-      "ICICIBANK.NS": {
+      "ICICIBANK": {
         "companyName": "ICICI Bank Limited",
         "price": 1404.80004882813
       },
-      "ICICIGI.NS": {
+      "ICICIGI": {
         "companyName": "ICICI Lombard General Insurance Company Limited",
         "price": 1854.09997558594
       },
-      "ICICIPRULI.NS": {
+      "ICICIPRULI": {
         "companyName": "ICICI Prudential Life Insurance Company Limited",
         "price": 595.799987792969
       },
-      "IDBI.NS": {
+      "IDBI": {
         "companyName": "IDBI Bank Limited",
         "price": 80.4300003051758
       },
-      "IDEA.NS": {
+      "IDEA": {
         "companyName": "Vodafone Idea Limited",
         "price": 7.46999979019165
       },
-      "IDFCFIRSTB.NS": {
+      "IDFCFIRSTB": {
         "companyName": "IDFC First Bank Limited",
         "price": 66.0800018310547
       },
-      "IEX.NS": {
+      "IEX": {
         "companyName": "Indian Energy Exchange Limited",
         "price": 190.5
       },
-      "IFCI.NS": {
+      "IFCI": {
         "companyName": "IFCI Limited",
         "price": 43.6300010681152
       },
-      "IGIL.NS": {
+      "IGIL": {
         "companyName": "International Gemmological Institute (India) Limited",
         "price": 350.049987792969
       },
-      "IGL.NS": {
+      "IGL": {
         "companyName": "Indraprastha Gas Limited",
         "price": 178.199996948242
       },
-      "IIFL.NS": {
+      "IIFL": {
         "companyName": "IIFL Finance Limited",
         "price": 366.200012207031
       },
-      "IKS.NS": {
+      "IKS": {
         "companyName": "Not Available",
         "price": 1467.19995117188
       },
-      "INDGN.NS": {
+      "INDGN": {
         "companyName": "Not Available",
         "price": 567.400024414063
       },
-      "INDHOTEL.NS": {
+      "INDHOTEL": {
         "companyName": "The Indian Hotels Company Limited",
         "price": 786.349975585938
       },
-      "INDIACEM.NS": {
+      "INDIACEM": {
         "companyName": "The India Cements Limited",
         "price": 287.799987792969
       },
-      "INDIAMART.NS": {
+      "INDIAMART": {
         "companyName": "IndiaMART InterMESH Limited",
         "price": 2248.10009765625
       },
-      "INDIANB.NS": {
+      "INDIANB": {
         "companyName": "Indian Bank",
         "price": 569.200012207031
       },
-      "INDIGO.NS": {
+      "INDIGO": {
         "companyName": "InterGlobe Aviation Limited",
         "price": 5313.5
       },
-      "INDUSINDBK.NS": {
+      "INDUSINDBK": {
         "companyName": "IndusInd Bank Limited",
         "price": 822.349975585938
       },
-      "INDUSTOWER.NS": {
+      "INDUSTOWER": {
         "companyName": "Indus Towers Limited",
         "price": 397.350006103516
       },
-      "INFY.NS": {
+      "INFY": {
         "companyName": "Infosys Limited",
         "price": 1480.19995117188
       },
-      "INOXINDIA.NS": {
+      "INOXINDIA": {
         "companyName": "INOX India Limited",
         "price": 1014.90002441406
       },
-      "INOXWIND.NS": {
+      "INOXWIND": {
         "companyName": "Inox Wind Limited",
         "price": 172.139999389648
       },
-      "INTELLECT.NS": {
+      "INTELLECT": {
         "companyName": "Intellect Design Arena Limited",
         "price": 765.25
       },
-      "IOB.NS": {
+      "IOB": {
         "companyName": "Indian Overseas Bank",
         "price": 37.3899993896484
       },
-      "IOC.NS": {
+      "IOC": {
         "companyName": "Indian Oil Corporation Limited",
         "price": 134.649993896484
       },
-      "IPCALAB.NS": {
+      "IPCALAB": {
         "companyName": "Ipca Laboratories Limited",
         "price": 1419
       },
-      "IRB.NS": {
+      "IRB": {
         "companyName": "IRB Infrastructure Developers Limited",
         "price": 46.9099998474121
       },
-      "IRCON.NS": {
+      "IRCON": {
         "companyName": "Ircon International Limited",
         "price": 156.360000610352
       },
-      "IRCTC.NS": {
+      "IRCTC": {
         "companyName": "Indian Railway Catering & Tourism Corporation Limited",
         "price": 751.849975585938
       },
-      "IREDA.NS": {
+      "IREDA": {
         "companyName": "Indian Renewable Energy Development Agency Limited",
         "price": 167.550003051758
       },
-      "IRFC.NS": {
+      "IRFC": {
         "companyName": "Indian Railway Finance Corporation Limited",
         "price": 128.800003051758
       },
-      "ITC.NS": {
+      "ITC": {
         "companyName": "ITC Limited",
         "price": 427.799987792969
       },
-      "ITI.NS": {
+      "ITI": {
         "companyName": "ITI Limited",
         "price": 264.070007324219
       },
-      "J&KBANK.NS": {
+      "J&KBANK": {
         "companyName": "The Jammu and Kashmir Bank Limited",
         "price": 97.620002746582
       },
-      "JBCHEPHARM.NS": {
+      "JBCHEPHARM": {
         "companyName": "J. B. Chemicals & Pharmaceuticals Limited",
         "price": 1573.69995117188
       },
-      "JBMA.NS": {
+      "JBMA": {
         "companyName": "JBM Auto Limited",
         "price": 675
       },
-      "JINDALSAW.NS": {
+      "JINDALSAW": {
         "companyName": "Jindal Saw Limited",
         "price": 256.75
       },
-      "JINDALSTEL.NS": {
+      "JINDALSTEL": {
         "companyName": "Jindal Steel & Power Limited",
         "price": 891.799987792969
       },
-      "JIOFIN.NS": {
+      "JIOFIN": {
         "companyName": "Jio Financial Services Limited",
         "price": 253.050003051758
       },
-      "JKCEMENT.NS": {
+      "JKCEMENT": {
         "companyName": "J.K. Cement Limited",
         "price": 5245.2998046875
       },
-      "JKTYRE.NS": {
+      "JKTYRE": {
         "companyName": "JK Tyre & Industries Limited",
         "price": 310
       },
-      "JMFINANCIL.NS": {
+      "JMFINANCIL": {
         "companyName": "JM Financial Limited",
         "price": 102.459999084473
       },
-      "JPPOWER.NS": {
+      "JPPOWER": {
         "companyName": "Jaiprakash Power Ventures Limited",
         "price": 15.0600004196167
       },
-      "JSL.NS": {
+      "JSL": {
         "companyName": "Jindal Stainless Limited",
         "price": 559.400024414063
       },
-      "JSWENERGY.NS": {
+      "JSWENERGY": {
         "companyName": "JSW Energy Limited",
         "price": 482.700012207031
       },
-      "JSWHL.NS": {
+      "JSWHL": {
         "companyName": "JSW Holdings Limited",
         "price": 25960
       },
-      "JSWINFRA.NS": {
+      "JSWINFRA": {
         "companyName": "JSW Infrastructure Limited",
         "price": 303.549987792969
       },
-      "JSWSTEEL.NS": {
+      "JSWSTEEL": {
         "companyName": "JSW Steel Limited",
         "price": 1028.40002441406
       },
-      "JUBLFOOD.NS": {
+      "JUBLFOOD": {
         "companyName": "Jubilant FoodWorks Limited",
         "price": 694.299987792969
       },
-      "JUBLINGREA.NS": {
+      "JUBLINGREA": {
         "companyName": "Jubilant Ingrevia Limited",
         "price": 695.650024414063
       },
-      "JUBLPHARMA.NS": {
+      "JUBLPHARMA": {
         "companyName": "Jubilant Pharmova Limited",
         "price": 910
       },
-      "JUSTDIAL.NS": {
+      "JUSTDIAL": {
         "companyName": "Just Dial Limited",
         "price": 923.349975585938
       },
-      "JWL.NS": {
+      "JWL": {
         "companyName": "Jupiter Wagons Limited",
         "price": 375.600006103516
       },
-      "JYOTHYLAB.NS": {
+      "JYOTHYLAB": {
         "companyName": "Jyothy Labs Limited",
         "price": 376.700012207031
       },
-      "JYOTICNC.NS": {
+      "JYOTICNC": {
         "companyName": "Jyoti CNC Automation Limited",
         "price": 1081.69995117188
       },
-      "KAJARIACER.NS": {
+      "KAJARIACER": {
         "companyName": "Kajaria Ceramics Limited",
         "price": 799.900024414063
       },
-      "KALYANKJIL.NS": {
+      "KALYANKJIL": {
         "companyName": "Kalyan Jewellers India Limited",
         "price": 501.25
       },
-      "KANSAINER.NS": {
+      "KANSAINER": {
         "companyName": "Kansai Nerolac Paints Limited",
         "price": 262.209991455078
       },
-      "KARURVYSYA.NS": {
+      "KARURVYSYA": {
         "companyName": "The Karur Vysya Bank Limited",
         "price": 215.970001220703
       },
-      "KAYNES.NS": {
+      "KAYNES": {
         "companyName": "Kaynes Technology India Limited",
         "price": 5573.89990234375
       },
-      "KEC.NS": {
+      "KEC": {
         "companyName": "KEC International Limited",
         "price": 723.200012207031
       },
-      "KEI.NS": {
+      "KEI": {
         "companyName": "KEI Industries Limited",
         "price": 2967.10009765625
       },
-      "KFINTECH.NS": {
+      "KFINTECH": {
         "companyName": "KFin Technologies Limited",
         "price": 1219.59997558594
       },
-      "KIMS.NS": {
+      "KIMS": {
         "companyName": "Krishna Institute of Medical Sciences Limited",
         "price": 674.549987792969
       },
-      "KIRLOSBROS.NS": {
+      "KIRLOSBROS": {
         "companyName": "Kirloskar Brothers Limited",
         "price": 1735.5
       },
-      "KIRLOSENG.NS": {
+      "KIRLOSENG": {
         "companyName": "Kirloskar Oil Engines Limited",
         "price": 734.849975585938
       },
-      "KNRCON.NS": {
+      "KNRCON": {
         "companyName": "KNR Constructions Limited",
         "price": 231.259994506836
       },
-      "KOTAKBANK.NS": {
+      "KOTAKBANK": {
         "companyName": "Kotak Mahindra Bank Limited",
         "price": 2204.39990234375
       },
-      "KPIL.NS": {
+      "KPIL": {
         "companyName": "Kalpataru Projects International Limited",
         "price": 945
       },
-      "KPITTECH.NS": {
+      "KPITTECH": {
         "companyName": "KPIT Technologies Limited",
         "price": 1221
       },
-      "KPRMILL.NS": {
+      "KPRMILL": {
         "companyName": "K.P.R. Mill Limited",
         "price": 1022.95001220703
       },
-      "LALPATHLAB.NS": {
+      "LALPATHLAB": {
         "companyName": "Dr. Lal PathLabs Limited",
         "price": 2911.19995117188
       },
-      "LATENTVIEW.NS": {
+      "LATENTVIEW": {
         "companyName": "Latent View Analytics Limited",
         "price": 402.899993896484
       },
-      "LAURUSLABS.NS": {
+      "LAURUSLABS": {
         "companyName": "Laurus Labs Limited",
         "price": 625.650024414063
       },
-      "LEMONTREE.NS": {
+      "LEMONTREE": {
         "companyName": "Lemon Tree Hotels Limited",
         "price": 139.470001220703
       },
-      "LICHSGFIN.NS": {
+      "LICHSGFIN": {
         "companyName": "LIC Housing Finance Limited",
         "price": 592.200012207031
       },
-      "LICI.NS": {
+      "LICI": {
         "companyName": "Life Insurance Corporation of India",
         "price": 791.200012207031
       },
-      "LINDEINDIA.NS": {
+      "LINDEINDIA": {
         "companyName": "Linde India Limited",
         "price": 6403.5
       },
-      "LLOYDSME.NS": {
+      "LLOYDSME": {
         "companyName": "Lloyds Metals and Energy Limited",
         "price": 1280.59997558594
       },
-      "LODHA.NS": {
+      "LODHA": {
         "companyName": "Macrotech Developers Limited",
         "price": 1305.09997558594
       },
-      "LT.NS": {
+      "LT": {
         "companyName": "Larsen & Toubro Limited",
         "price": 3272.10009765625
       },
-      "LTF.NS": {
+      "LTF": {
         "companyName": "L&T Finance Limited",
         "price": 172.990005493164
       },
-      "LTFOODS.NS": {
+      "LTFOODS": {
         "companyName": "LT Foods Limited",
         "price": 355.25
       },
-      "LTIM.NS": {
+      "LTIM": {
         "companyName": "LTIMindtree Limited",
         "price": 4498.2998046875
       },
-      "LTTS.NS": {
+      "LTTS": {
         "companyName": "L&T Technology Services Limited",
         "price": 4256.10009765625
       },
-      "LUPIN.NS": {
+      "LUPIN": {
         "companyName": "Lupin Limited",
         "price": 2019.59997558594
       },
-      "M&M.NS": {
+      "M&M": {
         "companyName": "Mahindra & Mahindra Limited",
         "price": 2864.19995117188
       },
-      "M&MFIN.NS": {
+      "M&MFIN": {
         "companyName": "Mahindra & Mahindra Financial Services Limited",
         "price": 264.600006103516
       },
-      "MAHABANK.NS": {
+      "MAHABANK": {
         "companyName": "Bank of Maharashtra",
         "price": 50.0099983215332
       },
-      "MAHSEAMLES.NS": {
+      "MAHSEAMLES": {
         "companyName": "Maharashtra Seamless Limited",
         "price": 672.25
       },
-      "MANAPPURAM.NS": {
+      "MANAPPURAM": {
         "companyName": "Manappuram Finance Limited",
         "price": 226.929992675781
       },
-      "MANKIND.NS": {
+      "MANKIND": {
         "companyName": "Mankind Pharma Limited",
         "price": 2557.5
       },
-      "MANYAVAR.NS": {
+      "MANYAVAR": {
         "companyName": "Vedant Fashions Limited",
         "price": 793.549987792969
       },
-      "MAPMYINDIA.NS": {
+      "MAPMYINDIA": {
         "companyName": "C. E. Info Systems Limited",
         "price": 1796.30004882813
       },
-      "MARICO.NS": {
+      "MARICO": {
         "companyName": "Marico Limited",
         "price": 710.400024414063
       },
-      "MARUTI.NS": {
+      "MARUTI": {
         "companyName": "Maruti Suzuki India Limited",
         "price": 11698
       },
-      "MASTEK.NS": {
+      "MASTEK": {
         "companyName": "Mastek Limited",
         "price": 2172.89990234375
       },
-      "MAXHEALTH.NS": {
+      "MAXHEALTH": {
         "companyName": "Max Healthcare Institute Limited",
         "price": 1067.40002441406
       },
-      "MAZDOCK.NS": {
+      "MAZDOCK": {
         "companyName": "Mazagon Dock Shipbuilders Limited",
         "price": 2661.10009765625
       },
-      "MCX.NS": {
+      "MCX": {
         "companyName": "Multi Commodity Exchange of India Limited",
         "price": 6052.5
       },
-      "MEDANTA.NS": {
+      "MEDANTA": {
         "companyName": "Global Health Limited",
         "price": 1215.09997558594
       },
-      "METROPOLIS.NS": {
+      "METROPOLIS": {
         "companyName": "Metropolis Healthcare Limited",
         "price": 1753.09997558594
       },
-      "MFSL.NS": {
+      "MFSL": {
         "companyName": "Max Financial Services Limited",
         "price": 1266.40002441406
       },
-      "MGL.NS": {
+      "MGL": {
         "companyName": "Mahanagar Gas Limited",
         "price": 1279.59997558594
       },
-      "MINDACORP.NS": {
+      "MINDACORP": {
         "companyName": "Minda Corporation Limited",
         "price": 505.25
       },
-      "MMTC.NS": {
+      "MMTC": {
         "companyName": "MMTC Limited",
         "price": 58.2799987792969
       },
-      "MOTHERSON.NS": {
+      "MOTHERSON": {
         "companyName": "Samvardhana Motherson International Limited",
         "price": 133.710006713867
       },
-      "MOTILALOFS.NS": {
+      "MOTILALOFS": {
         "companyName": "Motilal Oswal Financial Services Limited",
         "price": 694.900024414063
       },
-      "MPHASIS.NS": {
+      "MPHASIS": {
         "companyName": "Mphasis Limited",
         "price": 2538.60009765625
       },
-      "MRF.NS": {
+      "MRF": {
         "companyName": "MRF Limited",
         "price": 128655
       },
-      "MRPL.NS": {
+      "MRPL": {
         "companyName": "Mangalore Refinery and Petrochemicals Limited",
         "price": 137.110000610352
       },
-      "MSUMI.NS": {
+      "MSUMI": {
         "companyName": "Motherson Sumi Wiring India Limited",
         "price": 55.5900001525879
       },
-      "MUTHOOTFIN.NS": {
+      "MUTHOOTFIN": {
         "companyName": "Muthoot Finance Limited",
         "price": 2093.19995117188
       },
-      "NAM-INDIA.NS": {
+      "NAM-INDIA": {
         "companyName": "Nippon Life India Asset Management Limited",
         "price": 640.200012207031
       },
-      "NATCOPHARM.NS": {
+      "NATCOPHARM": {
         "companyName": "NATCO Pharma Limited",
         "price": 889.25
       },
-      "NATIONALUM.NS": {
+      "NATIONALUM": {
         "companyName": "National Aluminium Company Limited",
         "price": 156.5
       },
-      "NAUKRI.NS": {
+      "NAUKRI": {
         "companyName": "Info Edge (India) Limited",
         "price": 7038.5
       },
-      "NAVA.NS": {
+      "NAVA": {
         "companyName": "Nava Limited",
         "price": 479.149993896484
       },
-      "NAVINFLUOR.NS": {
+      "NAVINFLUOR": {
         "companyName": "Navin Fluorine International Limited",
         "price": 4448.7001953125
       },
-      "NBCC.NS": {
+      "NBCC": {
         "companyName": "NBCC (India) Limited",
         "price": 95.4899978637695
       },
-      "NCC.NS": {
+      "NCC": {
         "companyName": "NCC Limited",
         "price": 211.770004272461
       },
-      "NESTLEIND.NS": {
+      "NESTLEIND": {
         "companyName": "Nestlé India Limited",
         "price": 2413.5
       },
-      "NETWEB.NS": {
+      "NETWEB": {
         "companyName": "Netweb Technologies India Limited",
         "price": 1459.5
       },
-      "NETWORK18.NS": {
+      "NETWORK18": {
         "companyName": "Network18 Media & Investments Limited",
         "price": 43.689998626709
       },
-      "NEULANDLAB.NS": {
+      "NEULANDLAB": {
         "companyName": "Neuland Laboratories Limited",
         "price": 12300
       },
-      "NEWGEN.NS": {
+      "NEWGEN": {
         "companyName": "Newgen Software Technologies Limited",
         "price": 1055.65002441406
       },
-      "NH.NS": {
+      "NH": {
         "companyName": "Narayana Hrudayalaya Limited",
         "price": 1788
       },
-      "NHPC.NS": {
+      "NHPC": {
         "companyName": "NHPC Limited",
         "price": 86.0699996948242
       },
-      "NIACL.NS": {
+      "NIACL": {
         "companyName": "The New India Assurance Company Limited",
         "price": 168.529998779297
       },
-      "NIVABUPA.NS": {
+      "NIVABUPA": {
         "companyName": "Niva Bupa Health Insurance Company Limited",
         "price": 84.620002746582
       },
-      "NLCINDIA.NS": {
+      "NLCINDIA": {
         "companyName": "NLC India Limited",
         "price": 237.619995117188
       },
-      "NMDC.NS": {
+      "NMDC": {
         "companyName": "NMDC Limited",
         "price": 64.9499969482422
       },
-      "NSLNISP.NS": {
+      "NSLNISP": {
         "companyName": "NMDC Steel Limited",
         "price": 35.3499984741211
       },
-      "NTPC.NS": {
+      "NTPC": {
         "companyName": "NTPC Limited",
         "price": 356.450012207031
       },
-      "NTPCGREEN.NS": {
+      "NTPCGREEN": {
         "companyName": "Not Available",
         "price": 103.379997253418
       },
-      "NUVAMA.NS": {
+      "NUVAMA": {
         "companyName": "Nuvama Wealth Management Limited",
         "price": 6268
       },
-      "NYKAA.NS": {
+      "NYKAA": {
         "companyName": "FSN E-Commerce Ventures Limited",
         "price": 191.570007324219
       },
-      "OBEROIRLTY.NS": {
+      "OBEROIRLTY": {
         "companyName": "Oberoi Realty Limited",
         "price": 1606.19995117188
       },
-      "OFSS.NS": {
+      "OFSS": {
         "companyName": "Oracle Financial Services Software Limited",
         "price": 8604
       },
-      "OIL.NS": {
+      "OIL": {
         "companyName": "Oil India Limited",
         "price": 399.350006103516
       },
-      "OLAELEC.NS": {
+      "OLAELEC": {
         "companyName": "Not Available",
         "price": 49.8600006103516
       },
-      "OLECTRA.NS": {
+      "OLECTRA": {
         "companyName": "Olectra Greentech Limited",
         "price": 1207.40002441406
       },
-      "ONGC.NS": {
+      "ONGC": {
         "companyName": "Oil and Natural Gas Corporation Limited",
         "price": 246.330001831055
       },
-      "PAGEIND.NS": {
+      "PAGEIND": {
         "companyName": "Page Industries Limited",
         "price": 44605
       },
-      "PATANJALI.NS": {
+      "PATANJALI": {
         "companyName": "Patanjali Foods Limited",
         "price": 1967
       },
-      "PAYTM.NS": {
+      "PAYTM": {
         "companyName": "One97 Communications Limited",
         "price": 875.650024414063
       },
-      "PCBL.NS": {
+      "PCBL": {
         "companyName": "PCBL Chemical Limited",
         "price": 387
       },
-      "PEL.NS": {
+      "PEL": {
         "companyName": "Piramal Enterprises Limited",
         "price": 981.200012207031
       },
-      "PERSISTENT.NS": {
+      "PERSISTENT": {
         "companyName": "Persistent Systems Limited",
         "price": 5273.5
       },
-      "PETRONET.NS": {
+      "PETRONET": {
         "companyName": "Petronet LNG Limited",
         "price": 309.399993896484
       },
-      "PFC.NS": {
+      "PFC": {
         "companyName": "Power Finance Corporation Limited",
         "price": 415.049987792969
       },
-      "PFIZER.NS": {
+      "PFIZER": {
         "companyName": "Pfizer Limited",
         "price": 4248.89990234375
       },
-      "PGEL.NS": {
+      "PGEL": {
         "companyName": "PG Electroplast Limited",
         "price": 871.150024414063
       },
-      "PHOENIXLTD.NS": {
+      "PHOENIXLTD": {
         "companyName": "The Phoenix Mills Limited",
         "price": 1629
       },
-      "PIDILITIND.NS": {
+      "PIDILITIND": {
         "companyName": "Pidilite Industries Limited",
         "price": 3011.19995117188
       },
-      "PIIND.NS": {
+      "PIIND": {
         "companyName": "PI Industries Limited",
         "price": 3583.89990234375
       },
-      "PNB.NS": {
+      "PNB": {
         "companyName": "Punjab National Bank",
         "price": 99.2900009155273
       },
-      "PNBHOUSING.NS": {
+      "PNBHOUSING": {
         "companyName": "PNB Housing Finance Limited",
         "price": 971.700012207031
       },
-      "PNCINFRA.NS": {
+      "PNCINFRA": {
         "companyName": "PNC Infratech Limited",
         "price": 274.799987792969
       },
-      "POLICYBZR.NS": {
+      "POLICYBZR": {
         "companyName": "PB Fintech Limited",
         "price": 1594.19995117188
       },
-      "POLYCAB.NS": {
+      "POLYCAB": {
         "companyName": "Polycab India Limited",
         "price": 5507
       },
-      "POLYMED.NS": {
+      "POLYMED": {
         "companyName": "Poly Medicure Limited",
         "price": 2534.60009765625
       },
-      "POONAWALLA.NS": {
+      "POONAWALLA": {
         "companyName": "Poonawalla Fincorp Limited",
         "price": 380.399993896484
       },
-      "POWERGRID.NS": {
+      "POWERGRID": {
         "companyName": "Power Grid Corporation of India Limited",
         "price": 306.5
       },
-      "POWERINDIA.NS": {
+      "POWERINDIA": {
         "companyName": "Hitachi Energy India Limited",
         "price": 13499
       },
-      "PPLPHARMA.NS": {
+      "PPLPHARMA": {
         "companyName": "Piramal Pharma Limited",
         "price": 216.25
       },
-      "PRAJIND.NS": {
+      "PRAJIND": {
         "companyName": "Praj Industries Limited",
         "price": 505.350006103516
       },
-      "PREMIERENE.NS": {
+      "PREMIERENE": {
         "companyName": "Not Available",
         "price": 989.349975585938
       },
-      "PRESTIGE.NS": {
+      "PRESTIGE": {
         "companyName": "Prestige Estates Projects Limited",
         "price": 1261.80004882813
       },
-      "PTCIL.NS": {
+      "PTCIL": {
         "companyName": "PTC Industries Limited",
         "price": 13601
       },
-      "PVRINOX.NS": {
+      "PVRINOX": {
         "companyName": "PVR INOX Limited",
         "price": 980
       },
-      "RADICO.NS": {
+      "RADICO": {
         "companyName": "Radico Khaitan Limited",
         "price": 2441.80004882813
       },
-      "RAILTEL.NS": {
+      "RAILTEL": {
         "companyName": "RailTel Corporation of India Limited",
         "price": 302
       },
-      "RAINBOW.NS": {
+      "RAINBOW": {
         "companyName": "Rainbow Children's Medicare Limited",
         "price": 1397.09997558594
       },
-      "RAMCOCEM.NS": {
+      "RAMCOCEM": {
         "companyName": "The Ramco Cements Limited",
         "price": 968.650024414063
       },
-      "RAYMOND.NS": {
+      "RAYMOND": {
         "companyName": "Raymond Limited",
         "price": 1500.59997558594
       },
-      "RAYMONDLSL.NS": {
+      "RAYMONDLSL": {
         "companyName": "Raymond Lifestyle Limited",
         "price": 1011.79998779297
       },
-      "RBLBANK.NS": {
+      "RBLBANK": {
         "companyName": "RBL Bank Limited",
         "price": 188.089996337891
       },
-      "RCF.NS": {
+      "RCF": {
         "companyName": "Rashtriya Chemicals and Fertilizers Limited",
         "price": 135.940002441406
       },
-      "RECLTD.NS": {
+      "RECLTD": {
         "companyName": "REC Limited",
         "price": 422.200012207031
       },
-      "REDINGTON.NS": {
+      "REDINGTON": {
         "companyName": "Redington Limited",
         "price": 245.440002441406
       },
-      "RELIANCE.NS": {
+      "RELIANCE": {
         "companyName": "Reliance Industries Limited",
         "price": 1300.40002441406
       },
-      "RENUKA.NS": {
+      "RENUKA": {
         "companyName": "Shree Renuka Sugars Limited",
         "price": 29.4099998474121
       },
-      "RHIM.NS": {
+      "RHIM": {
         "companyName": "RHI Magnesita India Limited",
         "price": 444
       },
-      "RITES.NS": {
+      "RITES": {
         "companyName": "RITES Limited",
         "price": 229.960006713867
       },
-      "RKFORGE.NS": {
+      "RKFORGE": {
         "companyName": "Ramkrishna Forgings Limited",
         "price": 656.700012207031
       },
-      "ROUTE.NS": {
+      "ROUTE": {
         "companyName": "Route Mobile Limited",
         "price": 972.599975585938
       },
-      "RPOWER.NS": {
+      "RPOWER": {
         "companyName": "Reliance Power Limited",
         "price": 41.3600006103516
       },
-      "RRKABEL.NS": {
+      "RRKABEL": {
         "companyName": "R R Kabel Limited",
         "price": 972.049987792969
       },
-      "RTNINDIA.NS": {
+      "RTNINDIA": {
         "companyName": "RattanIndia Enterprises Limited",
         "price": 43.5499992370606
       },
-      "RVNL.NS": {
+      "RVNL": {
         "companyName": "Rail Vikas Nigam Limited",
         "price": 361.200012207031
       },
-      "SAGILITY.NS": {
+      "SAGILITY": {
         "companyName": "Not Available",
         "price": 40.8699989318848
       },
-      "SAIL.NS": {
+      "SAIL": {
         "companyName": "Steel Authority of India Limited",
         "price": 114.809997558594
       },
-      "SAILIFE.NS": {
+      "SAILIFE": {
         "companyName": "Not Available",
         "price": 687.700012207031
       },
-      "SAMMAANCAP.NS": {
+      "SAMMAANCAP": {
         "companyName": "Sammaan Capital Limited",
         "price": 123.819999694824
       },
-      "SAPPHIRE.NS": {
+      "SAPPHIRE": {
         "companyName": "Sapphire Foods India Limited",
         "price": 324.649993896484
       },
-      "SARDAEN.NS": {
+      "SARDAEN": {
         "companyName": "Sarda Energy & Minerals Limited",
         "price": 477.25
       },
-      "SAREGAMA.NS": {
+      "SAREGAMA": {
         "companyName": "Saregama India Limited",
         "price": 546
       },
-      "SBFC.NS": {
+      "SBFC": {
         "companyName": "SBFC Finance Limited",
         "price": 106.150001525879
       },
-      "SBICARD.NS": {
+      "SBICARD": {
         "companyName": "SBI Cards and Payment Services Limited",
         "price": 867.549987792969
       },
-      "SBILIFE.NS": {
+      "SBILIFE": {
         "companyName": "SBI Life Insurance Company Limited",
         "price": 1695.09997558594
       },
-      "SBIN.NS": {
+      "SBIN": {
         "companyName": "State Bank of India",
         "price": 798.650024414063
       },
-      "SCHAEFFLER.NS": {
+      "SCHAEFFLER": {
         "companyName": "Schaeffler India Limited",
         "price": 3194.19995117188
       },
-      "SCHNEIDER.NS": {
+      "SCHNEIDER": {
         "companyName": "Schneider Electric Infrastructure Limited",
         "price": 605.049987792969
       },
-      "SCI.NS": {
+      "SCI": {
         "companyName": "The Shipping Corporation of India Limited",
         "price": 173.820007324219
       },
-      "SHREECEM.NS": {
+      "SHREECEM": {
         "companyName": "Shree Cement Limited",
         "price": 30540
       },
-      "SHRIRAMFIN.NS": {
+      "SHRIRAMFIN": {
         "companyName": "Shriram Finance Limited",
         "price": 655.200012207031
       },
-      "SHYAMMETL.NS": {
+      "SHYAMMETL": {
         "companyName": "Shyam Metalics and Energy Limited",
         "price": 886.099975585938
       },
-      "SIEMENS.NS": {
+      "SIEMENS": {
         "companyName": "Siemens Limited",
         "price": 2833.5
       },
-      "SIGNATURE.NS": {
+      "SIGNATURE": {
         "companyName": "Signatureglobal (India) Limited",
         "price": 1136.90002441406
       },
-      "SJVN.NS": {
+      "SJVN": {
         "companyName": "SJVN Limited",
         "price": 96.6399993896484
       },
-      "SKFINDIA.NS": {
+      "SKFINDIA": {
         "companyName": "SKF India Limited",
         "price": 3876.69995117188
       },
-      "SOBHA.NS": {
+      "SOBHA": {
         "companyName": "Sobha Limited",
         "price": 1254.69995117188
       },
-      "SOLARINDS.NS": {
+      "SOLARINDS": {
         "companyName": "Solar Industries India Limited",
         "price": 12757
       },
-      "SONACOMS.NS": {
+      "SONACOMS": {
         "companyName": "Sona BLW Precision Forgings Limited",
         "price": 453.649993896484
       },
-      "SONATSOFTW.NS": {
+      "SONATSOFTW": {
         "companyName": "Sonata Software Limited",
         "price": 337.899993896484
       },
-      "SRF.NS": {
+      "SRF": {
         "companyName": "SRF Limited",
         "price": 2968.10009765625
       },
-      "STARHEALTH.NS": {
+      "STARHEALTH": {
         "companyName": "Star Health and Allied Insurance Company Limited",
         "price": 397.700012207031
       },
-      "SUMICHEM.NS": {
+      "SUMICHEM": {
         "companyName": "Sumitomo Chemical India Limited",
         "price": 512.799987792969
       },
-      "SUNDARMFIN.NS": {
+      "SUNDARMFIN": {
         "companyName": "Sundaram Finance Limited",
         "price": 5277
       },
-      "SUNDRMFAST.NS": {
+      "SUNDRMFAST": {
         "companyName": "Sundram Fasteners Limited",
         "price": 928.549987792969
       },
-      "SUNPHARMA.NS": {
+      "SUNPHARMA": {
         "companyName": "Sun Pharmaceutical Industries Limited",
         "price": 1787.40002441406
       },
-      "SUNTV.NS": {
+      "SUNTV": {
         "companyName": "Sun TV Network Limited",
         "price": 639.049987792969
       },
-      "SUPREMEIND.NS": {
+      "SUPREMEIND": {
         "companyName": "The Supreme Industries Limited",
         "price": 3477.80004882813
       },
-      "SUVENPHAR.NS": {
+      "SUVENPHAR": {
         "companyName": "Suven Pharmaceuticals Limited",
         "price": 1143.19995117188
       },
-      "SUZLON.NS": {
+      "SUZLON": {
         "companyName": "Suzlon Energy Limited",
         "price": 58.2999992370606
       },
-      "SWANENERGY.NS": {
+      "SWANENERGY": {
         "companyName": "Swan Energy Limited",
         "price": 415.100006103516
       },
-      "SWIGGY.NS": {
+      "SWIGGY": {
         "companyName": "Not Available",
         "price": 321.399993896484
       },
-      "SWSOLAR.NS": {
+      "SWSOLAR": {
         "companyName": "Sterling and Wilson Renewable Energy Limited",
         "price": 310.700012207031
       },
-      "SYNGENE.NS": {
+      "SYNGENE": {
         "companyName": "Syngene International Limited",
         "price": 630.099975585938
       },
-      "SYRMA.NS": {
+      "SYRMA": {
         "companyName": "Syrma SGS Technology Limited",
         "price": 489.75
       },
-      "TANLA.NS": {
+      "TANLA": {
         "companyName": "Tanla Platforms Limited",
         "price": 469.200012207031
       },
-      "TARIL.NS": {
+      "TARIL": {
         "companyName": "Not Available",
         "price": 510.549987792969
       },
-      "TATACHEM.NS": {
+      "TATACHEM": {
         "companyName": "Tata Chemicals Limited",
         "price": 826.450012207031
       },
-      "TATACOMM.NS": {
+      "TATACOMM": {
         "companyName": "Tata Communications Limited",
         "price": 1569.59997558594
       },
-      "TATACONSUM.NS": {
+      "TATACONSUM": {
         "companyName": "Tata Consumer Products Limited",
         "price": 1155.69995117188
       },
-      "TATAELXSI.NS": {
+      "TATAELXSI": {
         "companyName": "Tata Elxsi Limited",
         "price": 5612.5
       },
-      "TATAINVEST.NS": {
+      "TATAINVEST": {
         "companyName": "Tata Investment Corporation Limited",
         "price": 6128.5
       },
-      "TATAMOTORS.NS": {
+      "TATAMOTORS": {
         "companyName": "Tata Motors Limited",
         "price": 655.25
       },
-      "TATAPOWER.NS": {
+      "TATAPOWER": {
         "companyName": "The Tata Power Company Limited",
         "price": 387.600006103516
       },
-      "TATASTEEL.NS": {
+      "TATASTEEL": {
         "companyName": "Tata Steel Limited",
         "price": 138.850006103516
       },
-      "TATATECH.NS": {
+      "TATATECH": {
         "companyName": "Tata Technologies Limited",
         "price": 693.200012207031
       },
-      "TBOTEK.NS": {
+      "TBOTEK": {
         "companyName": "Not Available",
         "price": 1023.5
       },
-      "TCS.NS": {
+      "TCS": {
         "companyName": "Tata Consultancy Services Limited",
         "price": 3448
       },
-      "TECHM.NS": {
+      "TECHM": {
         "companyName": "Tech Mahindra Limited",
         "price": 1462
       },
-      "TECHNOE.NS": {
+      "TECHNOE": {
         "companyName": "Techno Electric & Engineering Company Limited",
         "price": 1101.40002441406
       },
-      "TEJASNET.NS": {
+      "TEJASNET": {
         "companyName": "Tejas Networks Limited",
         "price": 858.950012207031
       },
-      "THERMAX.NS": {
+      "THERMAX": {
         "companyName": "Thermax Limited",
         "price": 3444
       },
-      "TIINDIA.NS": {
+      "TIINDIA": {
         "companyName": "Tube Investments of India Limited",
         "price": 2573.89990234375
       },
-      "TIMKEN.NS": {
+      "TIMKEN": {
         "companyName": "Timken India Limited",
         "price": 2529.89990234375
       },
-      "TITAGARH.NS": {
+      "TITAGARH": {
         "companyName": "Titagarh Rail Systems Limited",
         "price": 778.549987792969
       },
-      "TITAN.NS": {
+      "TITAN": {
         "companyName": "Titan Company Limited",
         "price": 3365.19995117188
       },
-      "TORNTPHARM.NS": {
+      "TORNTPHARM": {
         "companyName": "Torrent Pharmaceuticals Limited",
         "price": 3238.89990234375
       },
-      "TORNTPOWER.NS": {
+      "TORNTPOWER": {
         "companyName": "Torrent Power Limited",
         "price": 1538.59997558594
       },
-      "TRENT.NS": {
+      "TRENT": {
         "companyName": "Trent Limited",
         "price": 5145
       },
-      "TRIDENT.NS": {
+      "TRIDENT": {
         "companyName": "Trident Limited",
         "price": 27.8899993896484
       },
-      "TRITURBINE.NS": {
+      "TRITURBINE": {
         "companyName": "Triveni Turbine Limited",
         "price": 506.75
       },
-      "TRIVENI.NS": {
+      "TRIVENI": {
         "companyName": "Triveni Engineering & Industries Limited",
         "price": 420.899993896484
       },
-      "TTML.NS": {
+      "TTML": {
         "companyName": "Tata Teleservices (Maharashtra) Limited",
         "price": 58.8300018310547
       },
-      "TVSMOTOR.NS": {
+      "TVSMOTOR": {
         "companyName": "TVS Motor Company Limited",
         "price": 2737.89990234375
       },
-      "UBL.NS": {
+      "UBL": {
         "companyName": "United Breweries Limited",
         "price": 2124.19995117188
       },
-      "UCOBANK.NS": {
+      "UCOBANK": {
         "companyName": "UCO Bank",
         "price": 30.4500007629395
       },
-      "ULTRACEMCO.NS": {
+      "ULTRACEMCO": {
         "companyName": "UltraTech Cement Limited",
         "price": 12237
       },
-      "UNIONBANK.NS": {
+      "UNIONBANK": {
         "companyName": "Union Bank of India",
         "price": 124.940002441406
       },
-      "UNITDSPR.NS": {
+      "UNITDSPR": {
         "companyName": "Not Available",
         "price": 1547.40002441406
       },
-      "UNOMINDA.NS": {
+      "UNOMINDA": {
         "companyName": "Uno Minda Limited",
         "price": 892.049987792969
       },
-      "UPL.NS": {
+      "UPL": {
         "companyName": "UPL Limited",
         "price": 661.849975585938
       },
-      "USHAMART.NS": {
+      "USHAMART": {
         "companyName": "Usha Martin Limited",
         "price": 298.200012207031
       },
-      "UTIAMC.NS": {
+      "UTIAMC": {
         "companyName": "UTI Asset Management Company Limited",
         "price": 1075
       },
-      "VBL.NS": {
+      "VBL": {
         "companyName": "Varun Beverages Limited",
         "price": 521.950012207031
       },
-      "VEDL.NS": {
+      "VEDL": {
         "companyName": "Vedanta Limited",
         "price": 413.299987792969
       },
-      "VGUARD.NS": {
+      "VGUARD": {
         "companyName": "V-Guard Industries Limited",
         "price": 356.399993896484
       },
-      "VIJAYA.NS": {
+      "VIJAYA": {
         "companyName": "Vijaya Diagnostic Centre Limited",
         "price": 1038.40002441406
       },
-      "VMM.NS": {
+      "VMM": {
         "companyName": "Not Available",
         "price": 107.319999694824
       },
-      "VOLTAS.NS": {
+      "VOLTAS": {
         "companyName": "Voltas Limited",
         "price": 1229.40002441406
       },
-      "VTL.NS": {
+      "VTL": {
         "companyName": "Vardhman Textiles Limited",
         "price": 464.700012207031
       },
-      "WAAREEENER.NS": {
+      "WAAREEENER": {
         "companyName": "Not Available",
         "price": 2676.5
       },
-      "WELCORP.NS": {
+      "WELCORP": {
         "companyName": "Welspun Corp Limited",
         "price": 756.799987792969
       },
-      "WELSPUNLIV.NS": {
+      "WELSPUNLIV": {
         "companyName": "Welspun Living Limited",
         "price": 124.529998779297
       },
-      "WESTLIFE.NS": {
+      "WESTLIFE": {
         "companyName": "Westlife Foodworld Limited",
         "price": 721.549987792969
       },
-      "WHIRLPOOL.NS": {
+      "WHIRLPOOL": {
         "companyName": "Whirlpool of India Limited",
         "price": 1156.55004882813
       },
-      "WIPRO.NS": {
+      "WIPRO": {
         "companyName": "Wipro Limited",
         "price": 240.899993896484
       },
-      "WOCKPHARMA.NS": {
+      "WOCKPHARMA": {
         "companyName": "Wockhardt Limited",
         "price": 1397.59997558594
       },
-      "YESBANK.NS": {
+      "YESBANK": {
         "companyName": "Yes Bank Limited",
         "price": 17.7700004577637
       },
-      "ZEEL.NS": {
+      "ZEEL": {
         "companyName": "Zee Entertainment Enterprises Limited",
         "price": 108.230003356934
       },
-      "ZENSARTECH.NS": {
+      "ZENSARTECH": {
         "companyName": "Zensar Technologies Limited",
         "price": 702
       },
-      "ZENTEC.NS": {
+      "ZENTEC": {
         "companyName": "Zen Technologies Limited",
         "price": 1416.09997558594
       },
-      "ZFCVINDIA.NS": {
+      "ZFCVINDIA": {
         "companyName": "ZF Commercial Vehicle Control Systems India Limited",
         "price": 12611
       },
-      "ZYDUSLIFE.NS": {
+      "ZYDUSLIFE": {
         "companyName": "Zydus Lifesciences Limited",
         "price": 859.650024414063
       }
