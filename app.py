@@ -1,11 +1,14 @@
 from flask import Flask, jsonify
-import yfinance as yf
 from flask_cors import CORS
 import os
 import json
+import requests
 
 app = Flask(__name__)
 CORS(app)
+
+# Your actual Google Apps Script endpoint
+GAS_BASE_URL = "https://script.google.com/macros/s/AKfycbyIOipbHQFC5egIqqdbnmbFaNwjHRVpRclP1g-ms9YOoVi4ssR9bUUfO75UkBDKh92c1Q/exec"
 
 @app.route("/")
 def home():
@@ -17,21 +20,22 @@ def home():
 @app.route("/price/<symbol>")
 def get_price(symbol):
     try:
-        if not symbol.endswith(".NS"):
-            symbol += ".NS"
-        stock = yf.Ticker(symbol.upper())
-        data = stock.history(period="1d")
-        company_name = stock.info.get("longName", "Not Available")
+        response = requests.get(f"{GAS_BASE_URL}?symbol={symbol}")
+        if response.status_code != 200:
+            return jsonify({"error": "Failed to fetch from Google Apps Script"}), 500
 
-        if data.empty:
-            return jsonify({"error": "No data found for symbol"}), 404
+        data = response.json()
 
-        ltp = float(data["Close"].iloc[-1])
-        return jsonify({
-            "symbol": symbol.upper(),
-            "companyName": company_name,
-            "ltp": ltp
-        })
+        # If the result is a list, return the exact symbol match
+        if isinstance(data, list):
+            for item in data:
+                if item.get("symbol", "").upper() == symbol.upper():
+                    return jsonify(item)
+            return jsonify({"error": f"No exact match found for {symbol}"}), 404
+
+        # Single result case
+        return jsonify(data)
+
     except Exception as e:
         return jsonify({"error": f"Error fetching data for {symbol}: {str(e)}"}), 500
 
@@ -50,22 +54,27 @@ def get_prices_by_index(index_name):
         with open(file_path, "r") as f:
             data = json.load(f)
         raw_symbols = data.get("Nifty 500") or data.get("Nifty 50") or []
-        symbols = [s if s.endswith(".NS") else s + ".NS" for s in raw_symbols]
+        symbols = raw_symbols  # Use raw symbols without appending .NS
     except Exception as e:
         return jsonify({"error": f"Error loading symbols: {str(e)}"}), 500
 
     prices = {}
+
     for sym in symbols:
         try:
-            stock = yf.Ticker(sym)
-            data = stock.history(period="1d")
-            company_name = stock.info.get("longName", "Not Available")
-            prices[sym] = {
-                "companyName": company_name,
-                "price": float(data["Close"].iloc[-1]) if not data.empty else None
-            }
-        except:
+            response = requests.get(f"{GAS_BASE_URL}?symbol={sym}")
+            if response.status_code == 200:
+                res_data = response.json()
+                if isinstance(res_data, list):
+                    match = next((item for item in res_data if item.get("symbol", "").upper() == sym.upper()), None)
+                    prices[sym] = match or {"companyName": "Not Available", "price": None}
+                else:
+                    prices[sym] = res_data
+            else:
+                prices[sym] = {"companyName": "Not Available", "price": None}
+        except Exception:
             prices[sym] = {"companyName": "Not Available", "price": None}
+
     return jsonify(prices)
 
 if __name__ == "__main__":
